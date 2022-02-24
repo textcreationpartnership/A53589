@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters from Major General Overton, (directed to a friend) The one from Aberdeen, dated the 26. Decemb. 1654. The other from the Tower of London (the place of his confinement) dated Janu. 17. 1654. Tending to his vindication from many unjust aspersions cast upon him by the pamphleteers, and others; and for more generall and requisite information.</title>
+            <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53589</idno>
+            <idno type="STC">Wing O643A</idno>
+            <idno type="STC">ESTC R222625</idno>
+            <idno type="EEBO-CITATION">99833777</idno>
+            <idno type="PROQUEST">99833777</idno>
+            <idno type="VID">38255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters from Major General Overton, (directed to a friend) The one from Aberdeen, dated the 26. Decemb. 1654. The other from the Tower of London (the place of his confinement) dated Janu. 17. 1654. Tending to his vindication from many unjust aspersions cast upon him by the pamphleteers, and others; and for more generall and requisite information.</title>
+                  <author>Overton, Robert, ca. 1609-ca. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewell Chapman, at the Crown in Popes-head alley,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:38255:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:38255:1" rendition="simple:additions"/>
+            <head>
+               <hi>Two Letters from Major General OVERTON, (directed to a Friend)</hi> The one from <hi>Aberdeen,</hi> dated the <hi>26.</hi> Decemb. <hi>1654.</hi> The other from the Tower of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> (<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e place of his Confinement) dated Janu. <hi>17. 1654.</hi>
+            </head>
+            <head type="sub">Tending to his Vindication from many unjust aſperſions caſt upon him by the Pamphleteers, and others; And for more generall and requiſite Information.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Bleſſe the Lord, I do remember you and yours, (by whom I am much remembred) ſo far as I am able in every thing; I know right well you and others do it much more for me, and pray dear Sir, do it ſtill: Heave me up upon the Wings of your Pray<g ref="char:EOLhyphen"/>ers, to him who is a God hearing prayers, and granting requeſts, intreat him to inable me to ſtand to his truth, which I ſhall not do, if he deject or forſake me, which I know would not a little trouble you and my many other Chriſtian Freinds: Yet when I remember the many paſt ex<g ref="char:EOLhyphen"/>periences, I have had of the Almighties mercies, and conſtant kindneſſes towards me, I have hopes he will not now leave and forſake me, in my moſt needfull time of trouble: The Devil like a Swallow may ſhew himſelf a Summer freind, but God is for Winter ſtorms of tryal, and then he moſt aſſuredly makes our ut<g ref="char:EOLhyphen"/>moſt extremities, his happieſt and moſt helpfull opportunities. I have in the late Wars reſiſted the common-enemy of my Coun<g ref="char:EOLhyphen"/>try (through the Almighties mercy) to blood, and frequent hazards of life; and ſince (bleſſed be his name) he hath carried me through reproaches, good and bad reports, loſſe of places, pre<g ref="char:EOLhyphen"/>ſerments, and rewards: But now perhaps the Lord will a little more ſhew his ſtrength in my weakneſſe, and try me with the
+<pb n="2" facs="tcp:38255:2"/>temptaion of skin for skin: If he do, I ſhall declare before hand, I ſhall fall, if he ſupport me not by the right hand of his power; yet if he inable me truly to ſay, <hi>Maſter ſave me,</hi> I am ſure, <hi>I ſhall not periſh;</hi> He will I truſt, give patience and perſeverance: I do en<g ref="char:EOLhyphen"/>deavour to eye his glory, hoping that he will both quicken and quiet my ſpirit, and when men have ſpoiled me of all my Martial places and profits, God can a thouſand times repair the loſſe, or thoſe loſſes, <hi>with the peace which paſſeth all underſtanding:</hi> Or, if I be called to ſeale the cauſe of God and my Country with my blood, by ſuffering death, or by bearing my teſtimony to the intereſt of my Nation, and the deſpiſed truths of theſe times; he is able to ſupport and ſave me, as the Sun to ſhine upon me; yet all is to apply and believe, to have recourſe to experiences; but above all to a reconciled God in Chriſt will do it: Oh that I could wreſtle with him in Prayer! as ſome <hi>Jacob's</hi> do at this day; and yet a Father hears his Infants voice, as tenderly, as thoſe of ſtron<g ref="char:EOLhyphen"/>ger attainments: The Lord inable us, that though we be led in<g ref="char:EOLhyphen"/>to Temptaion, we may be delivered from all evill. I ſuppoſe by this, you hear Sir <hi>William Conſtables</hi> Regiment is marching for <hi>Hull,</hi> as alſo that I am ſent for to <hi>London;</hi> Colonel <hi>Morgan</hi> com<g ref="char:EOLhyphen"/>ing down to Command the Northern Forces; I wait for Or<g ref="char:EOLhyphen"/>ders to march hence, and hear they are coming to me, God wil<g ref="char:EOLhyphen"/>ling they ſhall be readily obey<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; if I can but keep faith and a good Conſcience: I ſhall aſſuredly finiſh my courſe with joy: In the interim, I truſt I ſhall not need to fear what man can juſtly do unto me, for any thing I have done ſince my coming into <hi>Scotland;</hi> Therefore my freind in that reſpect let not your heart be troubled; but by your prayers, commend me to his care and cuſtody, who like a tender Father leads his by the hand (as he did Iſrael) through all dark places, ſtrengthening us in all our weakneſſes: In the interim, expect no more from us, than I receive from my Father, to whoſe care and eternal conſervation, I commend you, and remain,</p>
+            <closer>
+               <dateline>Aberdeen, <date>Decemb. 26. 1654.</date>
+               </dateline>
+               <signed>Yours whileſt I am Robert Overton.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:38255:2"/>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>BY the Lord Protector's Order, I was yeſterday confined a Priſoner in the Tower of <hi>London,</hi> where (as alſo before I came thither) having received information of thoſe falſe re<g ref="char:EOLhyphen"/>ports and miſpriſions I am under, I thought good for your own and my Chriſtian friends ſatisfaction with you, to give my an<g ref="char:EOLhyphen"/>ſwer to thoſe objections divulged againſt me, which you may take as followeth.</p>
+            <p>Object. 1. <hi>That before my going into</hi> Scotland, <hi>I engaged to the Lord Protector, that I would be true unto my truſt, and told him that I would let him know when I could ſerve him no longer; but now it is repor<g ref="char:EOLhyphen"/>ted, that I have forfeited my truſt, by going about to divide the Army, and reſolving to march in the head of a party for</hi> England, <hi>and there, as in</hi> Scotland <hi>to abet the Cavileers deſigne: To which I Anſwer.</hi>
+            </p>
+            <p>
+               <label>1. Reply</label> That I am ſtill true unto my truſt, and have kept my reſolutions to let his Lordſhip know, when I could ſerve him no longer; (adding that when I perceived his Lordſhip did on<g ref="char:EOLhyphen"/>ly deſigne the ſetting up of himſelf, and not the good of thoſe Nations, I could not ſet one foot before another to ſerve him; to which he replyed, <hi>Thou wert a Knave if thou wouldeſt?</hi>) nor did I ever go about to divide the Army, promiſe to head any party, or intend to joyn with the Cavileers (<hi>Scotch</hi> or <hi>Engliſh</hi>) but on the contrary, having heard that upon the addreſſe made by the Officers at <hi>Jamſes,</hi> ſome honeſt Officers at <hi>Aberdeen</hi> had debates of that nature; I ſent to them firſt to forbear their debates; and after underſtanding that they were under ſome preſſure of ſpirit in that particular, and purpoſe to meet at <hi>Edenbrough</hi> about the diſcharge of their Duties and Conſciences in that kinde, I ſent for them, and told them, That if they intended any thing in an unwarrantable way, I could not conceal it: <hi>Whereupon they pro<g ref="char:EOLhyphen"/>miſed me to do all things in Gods way, and that they would acquaint the General therewith, and do nothing therein without his conſent.</hi>
+            </p>
+            <p>
+               <label>Object. 2.</label> 
+               <hi>The News-mongers and others, I perceive, report me to be a Leveller, and a diſcontented perſon, for that other Officers were pre<g ref="char:EOLhyphen"/>ferred before me, who were my juniors; and that I was abſent from my charge in</hi> Scotland <hi>two years together: To all which I thus Anſwer.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:38255:3"/>
+               <label>Reply 2.</label> Firſt, That if a Leveller be one, who bears affection to Anarchy, deſtroying propriety or Government, then I am none; but if upon the account of <hi>New-market</hi> and other Engagements for the ſettling of a well-grounded Government, redreſſe of grie<g ref="char:EOLhyphen"/>vances, Civil, Eccleſiaſtical or Military, or inflicting condigne puniſhment upon capital offenders, <hi>&amp;c.</hi> If this be Levelling, I was and am a Leveller: 2. I acknowledge it was ſome diſſatis<g ref="char:EOLhyphen"/>faction to me, to have foure of my Junior Colonels preferred o<g ref="char:EOLhyphen"/>ver my head; yet neither that, nor any other neglect did ever diſcourage or hinder me from doing my duty diligently, faith<g ref="char:EOLhyphen"/>fully, and for the moſt part (I bleſſe God for it) effectually for theſe thirteen years. 3. As concerning my abſence from my Command in <hi>Scotland,</hi> I confeſſe after I had diſcontinued from <hi>England,</hi> neer upon the matter of two years, my Father dying in the interim, and my Eſtate left in a diſordered and unſettled condition, (diverſe debts, as I believe, yet undiſcharged, and to my detriment I doubt, become deſperate through default of time<g ref="char:EOLhyphen"/>ly looking too) I did deſire General <hi>Dean</hi>'s Paſſe for <hi>England,</hi> which I had without limitation of time to return in; and find<g ref="char:EOLhyphen"/>ing my occaſions in my own Country to be very commanding (knowing in how peaceable a poſture all things were at my com<g ref="char:EOLhyphen"/>ming from <hi>Scotland,</hi> and ſo continued for three quarters of a year after: I preſumed to ſtay in my Government at <hi>Hull,</hi> untill I underſtood that there were ſome ſtirs in <hi>Scotland;</hi> whereupon I immediatly writ to his Excellency, the Lord General, to know whether or no he expected any further ſervice from me in that Nation; but receiving no Anſwer of my Letter, and immediate<g ref="char:EOLhyphen"/>ly after the little Parliament being Diſſolved, (in order to my own ſatisfaction as to the one and the other) I came up to <hi>London,</hi> and gave his Lordſhip an account both of the Reaſons and warrant for my ſtay in <hi>England,</hi> wherwith his Lordſhip ſeem'd then ſatisfied; and as to the continuance of my two Commands, it was neither by me deſired nor endeavoured; I having former<g ref="char:EOLhyphen"/>ly by my friend Collonel <hi>Salmon</hi> made a tender to reſign my Re<g ref="char:EOLhyphen"/>giment in <hi>Scotland,</hi> and (all things being in a peaceable poſture there) I was willing to have retired my ſelf to my Government at <hi>Hull,</hi> that thereby I might have enjoyed the comforts of my Relations and Country; but this not being accepted, I now ſee
+<pb n="5" facs="tcp:38255:3"/>there was a providence in order to my preſent reproach, which I truſt in his own good time the Lord our God will rowl away; for if truth it ſelf be not over-born, or out-faced, I ſhall in the upſhot neither appear hypocritical, unfaithful, or perfidious, as hath been reported: And if this cannot ſtop the mouth of the malevolent, I truſt it may in ſome meaſure ſatisfie the godly-wiſe, who if they be my friends, I ſhall be the better inabled to bear the brow-beatings of others report or reproaches cauſeleſs<g ref="char:EOLhyphen"/>ly caſt upon me.</p>
+            <p>
+               <label>Object. 3.</label> 
+               <hi>But ſay ſome, you made a company of ſcandalous Verſes up<g ref="char:EOLhyphen"/>on the Lord Protector; whereby his Highneſſe and diverſe others were offended and diſpleaſed for your ſo doing.</hi>
+            </p>
+            <p>
+               <label>Reply 3.</label> I muſt acknowledge I copied a paper of Verſes, cal<g ref="char:EOLhyphen"/>led, <hi>The Character of a Protector,</hi> but I did neither compoſe, nor (to the beſt of my remembrance) ſhew them to any after I had writ them forth: They were taken out of my Letter-caſe at <hi>Leith,</hi> where they had lain a long time by me neglected and for<g ref="char:EOLhyphen"/>gotten: I had them from a friend who wiſhed my Lord well, and who told me that his Lordſhip had ſeen them, and I believe laughed at them as (to my knowledge) heretofore he hath done, at Papers and Pamphlets of more perſonal and particular import or abuſe.</p>
+            <p>
+               <label>Object. 4.</label> 
+               <hi>Another thing objected againſt me, as I am enformed, is let<g ref="char:EOLhyphen"/>ters of dangerous conſequence intercepted as they were coming to me.</hi>
+            </p>
+            <p>
+               <label>Reply 4.</label> In regard I received them not, I cannot judge of their danger or ſignificance: Indeed I did hear that letters of diſſatis<g ref="char:EOLhyphen"/>factory import were directed to diverſe in <hi>Scotland,</hi> with prin<g ref="char:EOLhyphen"/>ted papers and Petitions in them, ſent to <hi>Leith</hi> and other places, but thoſe to whom they were directed, know not whence they came, having neither ſubſcription, nor dates; and it is poſ<g ref="char:EOLhyphen"/>ſible ſome diſſatisfied perſons in <hi>England,</hi> might direct Letters to me as to other men upon the ſame account and ſcore: nay is it not probable that ſome enformers (not my Friends) to render their ſervice more ſutable to their ſallaries, might report or ſuggeſt from their own or others opinions, ſome high expecta<g ref="char:EOLhyphen"/>tion had of me in the matters forementioned, <hi>viz. The dividing and marching a part of the Army into</hi> England: which no man living ſhall be juſtly able to make good againſt me; it being (as I well know)
+<pb n="6" facs="tcp:38255:4"/>a thing dangerous and unfeaſable, and moſt unlikely to one in any thing but diviſion and deſtruction, (two inſeparable ad<g ref="char:EOLhyphen"/>juncts ſaith <hi>Caeſar Borgje</hi>) therefore as far from my purpoſe as in it ſelf impracticable, as the conſtitution of the Army ſtood.</p>
+            <p>
+               <label>Object. 5.</label> 
+               <hi>But ſay ſome, you and other Officers refuſed to come to the head Quarters when Generall</hi> Monk <hi>commanded you, which was a con<g ref="char:EOLhyphen"/>vincing argument of your guilt and diſobedience, and the occaſion given him to ſend a guard for you.</hi>
+            </p>
+            <p>
+               <label>Reply 5.</label> To this I anſwer, we ſhould herein have been much too blame, had the reports of the worldly writers been true, the contrary whereof will be witneſſed as followeth; for firſt, ſome of the Officers were impriſoned at <hi>Dundee,</hi> as they were voluntari<g ref="char:EOLhyphen"/>ly marching towards the head Quarters, and I know none of the reſt who did delay to come after they were commanded: for my ſelf, the very day before Mr. <hi>Oates</hi> his going towards <hi>Edenburgh,</hi> I remember I received from Mr. <hi>Clark</hi> (generall <hi>Monks</hi> Secretary) a Letter, in the latter end whereof, he thus hints; I cannot give you any account of the grounds of the Generals ſending for you to the Head Quarters, but herewith receiving no Letter from the General. I conclude a miſcarriage of his Letter, or a miſtake in Mr. <hi>Clarks</hi> relation, however (as will be witneſſed) I was ſo far from refuſing to obey the Generals command, that I was reſolved to ſet forwards for <hi>Dalkieth</hi> the next morning, had I not been di<g ref="char:EOLhyphen"/>ſwaded by ſome of my fellow-officers, whereupon I immediately diſpacht a Letter to General Monk (to be conveyed from Garri<g ref="char:EOLhyphen"/>ſon to Garriſon day and night, untill it came to his hands) inti<g ref="char:EOLhyphen"/>mating my reall readineſſe, to obſerve his commands by Letter or meſſenger; two dayes after I had written to him, two of his Let<g ref="char:EOLhyphen"/>ters came together to my hands, intimating his deſire to have me come to the head Quarters with what convenience I could, and at the very ſame time I received Letters from Gen. <hi>Middleton</hi> and the Earl of <hi>Seaforth,</hi> deſiring a capitulation in order to their own with their parties coming in, and laying down their Arms, upon which account I was perſwaded to ſtay a day longer to draw up and debate Propoſals, but that Evening a Letter coming from the General upon the forementioned account, I declined all further debate with <hi>Pluſcardin</hi> the Earls uncle, adviſing him and General <hi>Middletons</hi> Trumpet, to proceed in purſuance of their buſineſſe at
+<pb n="7" facs="tcp:38255:4"/>the head Qarrers, whether I was going with all poſſible ſpeed: how therefore I ſhould be accuſed of neglect or diſobedience to the general commands, I cannot imagine, but ſhall leave it to the Judicious to determine, not doubting but wherein men have miſtaken, the ſearcher of the heart, and the tryer of the reins will in due time rectifie their aberrations: in the interim I ſhall con<g ref="char:EOLhyphen"/>clude with what a priſoner (and my predeceſſour in this place) from the Apoſtle Peter obſerves of promiſes, and from the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> of afflictions, but he chaſtened us for our profit that we might be partakers of his holineſſe: ſo for promiſes, 2 <hi>Pet.</hi> 1.4. there are given to us exceeding great and precious promiſes, that by them we ſhould be partakers of the divine nature: why there<g ref="char:EOLhyphen"/>fore (ſaith he) may we not ſay, there are given unto us exceeding great &amp; precious afflictions, that by them we might be partakers of the divine nature, that is, of his holineſſe, for to you it is gi<g ref="char:EOLhyphen"/>ven, not onely to believe, but to ſuffer, <hi>Phil.</hi> 1.29. Thus God ſwee<g ref="char:EOLhyphen"/>tens the very nature of afflictions, and molds us thereby into his own image; for as Chriſt became a perfect mediator by his paſ<g ref="char:EOLhyphen"/>ſion, ſo by ſufferings, our Lord can conſecrate us to himſelf; I fill up ſaith <hi>Paul</hi> that which is behind of the afflictions of Chriſt in my fleſh, ſo that we ſee Chriſt is not full till his Members (more or leſſe) have had their meaſure of ſufferings; if in patience we poſſeſſe our ſpirits we ſhall inherit the promiſes; our chaſtening touching patience and perſeverance unto the end, will turn our crowns of thorns into crowns of glory, &amp; bring us forth of the furnace of affliction, as his monuments of free grace, who ſaith, <hi>I will deliver thee, and thou ſhalt glorifie me,</hi> &amp;c. Thus Sir, having gi<g ref="char:EOLhyphen"/>ven you a true account of the nature of thoſe accuſations, which I underſtand are ſuggeſted againſt me, for which I truſt I ſhall not be condemned before I be convicted: commending you to the protection of the father of ſpirits, and God of all grace, deſiring your prayers, that I may improve this priſon-diſpenſation in the exerciſe of patience to his glory, and the increaſe of my own comforts, I bid you Farewell.</p>
+            <closer>
+               <dateline>From my impriſoment in the Tower of <hi>London</hi> 
+                  <date>Jan. 17. 1654.</date>
+               </dateline>
+               <signed>Yours in him, by whom we are what we are, <hi>Robert Overton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:38255:5"/>
+            <head>Poſtſcript.</head>
+            <p>HAving received theſe Letters from Major General <hi>Overton,</hi> and underſtanding the continuance of thoſe calumnies and falſe reports againſt him, I thought good for vin<g ref="char:EOLhyphen"/>dication of his Integrity to put them to publick view.</p>
+            <closer>
+               <signed>J. H.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Livewell Chapman,</hi> at the Crown in <hi>Popes-head</hi> alley, 1655.</p>
+            <pb facs="tcp:38255:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
